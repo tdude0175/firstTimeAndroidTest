@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Da New Worlda</string>
+    <string name="app_name">"Thomas' test"</string>
     <string name="happy_birthday_autumn">Happy Birthday Autumn!</string>
+    <string name="new_text">New text</string>
 </resources>
